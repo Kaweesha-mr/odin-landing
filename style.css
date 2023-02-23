@@ -63,6 +63,10 @@ a:hover{
     width: 150px;
 
 }
+.sub{
+
+    color: white;
+}
 
 p.dis{
 
@@ -103,4 +107,110 @@ button:hover{
 }
 
 /* ---------------------------------header mid section------------------------------------- */
+
+/* ---------------------------------Web page Mid section------------------------------------- */
+
+.mid-section{
+    margin: 10px;
+}
+
+.title-2{
+
+    display: inline;
+    padding-left: 230px;
+    color: #1f2937;
+    font-size: 36px;
+}
+.item-container{
+
+
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+}
+
+.item-pic{
+
+    border: 2px solid #3882f6;
+    margin: 50px;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.diss{
+
+    color: black;
+    text-align: center-;
+    font-size: 15px;
+}
+
+.item1,.item2,.item3,.item4{
+
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.quote-section{
+
+
+    background-color: #e5e7eb;
+    border-radius: 5px;
+    text-align: center;
+    padding: 100px;
+    font-size: 36px;
+    font-style: italic;
+}
+
+
+.bold{
+
+    text-align: right;
+    font-weight: bolder;
+}
+
+
+.contactus{
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.blue-box{
+
+    background-color: #3882f6;
+    color: white;
+    height: 100px;
+}
+
+
+.blue-text{
+
+    padding:20px ;
+    font-size: large;
+}
+
+.btn-2{
+    float: right;
+    box-shadow: none;
+
+}
+
+/* ---------------------------------Web page Mid section------------------------------------- */
+
+
+.footer{
+
+    background-color: #1f2937;
+    height: 40px;
+
+}
+
+.footer-text{
+
+    text-align: center;
+    color: white;
+}
 
